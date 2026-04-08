@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+gradio
+scikit-learn
+pydantic
+requests
